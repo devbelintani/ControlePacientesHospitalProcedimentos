@@ -1,3 +1,7 @@
+sql:
+  name: SQL
+  comment: hyphen
+
 create database hospital_db;
 
 use hospital_db;
